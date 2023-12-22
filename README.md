@@ -1,5 +1,7 @@
-# freecodecamp-technical-documentation-page
+# freeCodeCamp technical documentation page
 
-Technical documentation page for the Responsive Web Design Certification at FreeCodeCamp.
+Technical documentation page for the Responsive Web Design Certification at freeCodeCamp.
 
-[Project link](https://msfonrouge.github.io/freecodecamp-technical-documentation-page/)
+[Project link](https://msfonrouge.github.io/fcc-technical-documentation-page/)
+
+![Technical documentation page screenshot](https://github.com/msfonrouge/fcc-technical-documentation-page/blob/main/screenshot.png)
